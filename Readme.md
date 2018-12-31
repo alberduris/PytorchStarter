@@ -6,6 +6,8 @@ Source: (https://pytorch.org/tutorials/)
 
 Just the solved Notebooks from official Pytorch tutorial that I did for training. 
 
+All data sources auto-contained in repo.
+
 ## TOC
 
 - Getting Started
@@ -26,10 +28,10 @@ Just the solved Notebooks from official Pytorch tutorial that I did for training
   - Classifying names with RNN
   - Generating names with RNN
   - NLP
-   - Intro to Deep Learning for NLP
-   - Word embeddings
-   - Sequence models
-   - Advanced: BiLSTM CRF
+    - Intro to Deep Learning for NLP
+    - Word embeddings
+    - Sequence models
+    - Advanced: BiLSTM CRF
   - Translation
 - Generative
   - DCGAN
